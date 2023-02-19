@@ -1,0 +1,113 @@
+@media (max-width:776px){
+      .med{
+            width:60%;
+            margin: auto;
+      }
+      .div5{
+            width:90%;
+            margin: auto;
+      }
+      
+      
+}
+.med{
+      border-radius: 4px;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+      -o-border-radius: 4px;
+}
+
+.attash1{
+      height:40vh;
+      background-attachment:fixed ;
+      background-image: url(../images/attach1.jpg);
+      background-size: 100% ;
+      position: relative;
+}
+.attash2{
+      height:40vh;
+      background-attachment:fixed ;
+      background-image: url(../images/attash2.jpg);
+      background-size: cover;
+      position: relative;
+      
+}
+.overlay{
+      position:absolute;
+      width:100%;
+      height: 100%;
+      left:0;
+      bottom:0;
+      background-color: rgba(11,11,11,.6);
+}
+.hh{
+      background-color:#777;
+}
+.fac {
+      width:40px;
+      height:40px;
+      display: block;
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+      text-align: center;
+      font-size: 23px;
+      padding:3px 12px;
+      
+     margin: auto;
+     margin-bottom: 5px;
+}
+
+.imglogo , 
+h5 img{
+      width:35px;
+      border-radius: 50%;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+      -o-border-radius: 50%;
+}
+
+.linklogo{
+      border-right:1px solid #aaa ;
+     padding-right: 10px;
+}
+.imagecoursol img{
+      height:80vh;
+}
+.carousel-caption{
+      background-color:rgba(200,200,200,.3);
+      border-radius: 4px;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+      -o-border-radius: 4px;
+}
+.sp:hover{
+      text-shadow: 5px 5px 10px #faf7f7,-5px -5px 10px #faf7f7;
+}
+.jumbotron h4{
+      font-weight: bold;
+      font-size: 25px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ 
+pre{
+      font-size: 20px;
+}
+.li a{
+      display: block;
+      color:white;
+      line-height: 2;
+      text-decoration: underline;
+}
+.luwu{
+      background-color: #aaa;
+}
+.luwu a:hover{
+      padding-left:40px
+}
